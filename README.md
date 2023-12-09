@@ -1,4 +1,4 @@
-  Number Guessing Game
+  Number Guessing Game:- 
 Game Setup: I have created a Java program that generates a random
  number between a specified range.
  User Input: Prompt the player to guess the number and provide
